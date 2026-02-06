@@ -15,10 +15,11 @@ class Solution {
             }
       
         }
-        for(int i=0;i<nums.length;i++)
-        {
-            nums[i]=arr[i];
-        }
-        return nums;
+        return arr;
+        // for(int i=0;i<nums.length;i++)
+        // {
+        //     nums[i]=arr[i];
+        // }
+        // return nums;
     }
 }
