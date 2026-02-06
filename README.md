@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/samridhkumarsingh/problems-solved/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/samridhkumarsingh/problems-solved/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
