@@ -28,7 +28,7 @@ class Solution {
         //         nums[i]=2;
         //     }
         // }
-        int n= nums.length;
+        int n= nums.length;//method 2
         int l=0,m=0,h=n-1;
         for(int i=0;i<n;i++)
         {
