@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/samridhkumarsingh/problems-solved/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/samridhkumarsingh/problems-solved/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/samridhkumarsingh/problems-solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0136-single-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/samridhkumarsingh/problems-solved/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Heap (Priority Queue)
@@ -85,5 +87,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/samridhkumarsingh/problems-solved/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
