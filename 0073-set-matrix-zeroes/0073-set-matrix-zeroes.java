@@ -31,39 +31,119 @@ class Solution {
         // }
         
 
-        //method 2
-        boolean[] row=new boolean[m];
-        boolean[] colomn=new boolean[n];
+        // //method 2
+        // boolean[] row=new boolean[m];
+        // boolean[] colomn=new boolean[n];
+        // for(int i=0;i<m;i++)
+        // {
+        //     for(int j=0;j<n;j++)
+        //     {
+        //         if(matrix[i][j]==0)
+        //         {
+        //             row[i]=true;
+        //             colomn[j]=true;
+        //         }
+        //     }
+        // }
+        // for(int i=0;i<m;i++)
+        // {
+        //     if(row[i]==true)
+        //     {
+        //         for(int a=0;a<n;a++)
+        //         {
+        //             matrix[i][a]=0;
+        //         }
+        //     }
+        // }
+        //    for(int j=0;j<n;j++)
+        // {
+        //     if(colomn[j]==true)
+        //     {
+        //         for(int b=0;b<m;b++)
+        //         {
+        //             matrix[b][j]=0;
+        //         }
+        //     }
+        // }
+
+        // method3
+        boolean ZeroRow=false;
+        boolean ZeroCol=false;
+
+        //check the zero row
+        for(int j=0;j<n;j++)
+        {
+            if(matrix[0][j]==0)
+            {
+                ZeroRow=true;
+                break;
+            }
+        }
+
+          //check the zero colomn
         for(int i=0;i<m;i++)
         {
-            for(int j=0;j<n;j++)
+            if(matrix[i][0]==0)
+            {
+                ZeroCol=true;
+                break;
+            }
+        }
+
+        //checking the matrix without zero row and colomn
+        for(int i=1;i<m;i++)
+        {
+            for(int j=1;j<n;j++)
             {
                 if(matrix[i][j]==0)
                 {
-                    row[i]=true;
-                    colomn[j]=true;
+                    matrix[0][j]=0;
+                    matrix[i][0]=0;
                 }
             }
         }
-        for(int i=0;i<m;i++)
+
+        //if zero convating the rows and colomn zero
+
+        //for row
+        for(int j=1;j<n;j++)
         {
-            if(row[i]==true)
+            if(matrix[0][j]==0)
             {
-                for(int a=0;a<n;a++)
+                for(int i=1;i<m;i++)
                 {
-                    matrix[i][a]=0;
+                    matrix[i][j]=0;
                 }
             }
         }
-           for(int j=0;j<n;j++)
+
+         //for colomn
+        for(int i=1;i<m;i++)
         {
-            if(colomn[j]==true)
+            if(matrix[i][0]==0)
             {
-                for(int b=0;b<m;b++)
+                for(int j=1;j<n;j++)
                 {
-                    matrix[b][j]=0;
+                    matrix[i][j]=0;
                 }
             }
         }
+
+        //travling zero rows and colomn
+        if(ZeroRow==true)
+        {
+            for(int j=0;j<n;j++)
+            {
+                matrix[0][j]=0;
+            }
+        }
+        if(ZeroCol==true)
+        {
+            for(int i=0;i<m;i++)
+            {
+                matrix[i][0]=0;
+            }
+        }
+
     }
 }
