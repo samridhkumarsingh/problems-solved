@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/samridhkumarsingh/problems-solved/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0766-toeplitz-matrix) |
 | [0861-score-after-flipping-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0977-squares-of-a-sorted-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/samridhkumarsingh/problems-solved/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0766-toeplitz-matrix) |
 | [0861-score-after-flipping-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/samridhkumarsingh/problems-solved/tree/master/1572-matrix-diagonal-sum) |
