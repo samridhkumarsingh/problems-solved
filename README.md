@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/samridhkumarsingh/problems-solved/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0344-reverse-string) |
 ## Array
 |  |
@@ -50,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/samridhkumarsingh/problems-solved/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/samridhkumarsingh/problems-solved/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/samridhkumarsingh/problems-solved/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/samridhkumarsingh/problems-solved/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/samridhkumarsingh/problems-solved/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/samridhkumarsingh/problems-solved/tree/master/0169-majority-element) |
 ## Divide and Conquer
