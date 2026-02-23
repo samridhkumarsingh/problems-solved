@@ -15,19 +15,22 @@ class Solution {
             }
             
         }
-
-         char[] b=new char[128];
+        for(int i=0;i<128;i++)
+        {
+            freq[i]='\0';
+        }
+        // char[] b=new char[128];
         for(int i=0;i<s.length();i++)
         {
             char ch=t.charAt(i);
             char dh=s.charAt(i);
             int idx=(int)ch;
-            if(b[idx]=='\0')
+            if(freq[idx]=='\0')
             {
-                b[idx]=dh;
+                freq[idx]=dh;
             }else
             {
-                if(b[idx]!=dh) return false;
+                if(freq[idx]!=dh) return false;
             }
             
         }
