@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/samridhkumarsingh/problems-solved/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/samridhkumarsingh/problems-solved/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/samridhkumarsingh/problems-solved/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/samridhkumarsingh/problems-solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0059-spiral-matrix-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/samridhkumarsingh/problems-solved/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0240-search-a-2d-matrix-ii) |
 ## Union-Find
 |  |
