@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/samridhkumarsingh/problems-solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/samridhkumarsingh/problems-solved/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/samridhkumarsingh/problems-solved/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/samridhkumarsingh/problems-solved/tree/master/0485-max-consecutive-ones) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/samridhkumarsingh/problems-solved/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/samridhkumarsingh/problems-solved/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/samridhkumarsingh/problems-solved/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/samridhkumarsingh/problems-solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samridhkumarsingh/problems-solved/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/samridhkumarsingh/problems-solved/tree/master/0560-subarray-sum-equals-k) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/samridhkumarsingh/problems-solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/samridhkumarsingh/problems-solved/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/samridhkumarsingh/problems-solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samridhkumarsingh/problems-solved/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
