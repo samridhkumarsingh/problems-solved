@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/samridhkumarsingh/problems-solved/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/samridhkumarsingh/problems-solved/tree/master/1572-matrix-diagonal-sum) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/samridhkumarsingh/problems-solved/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/samridhkumarsingh/problems-solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samridhkumarsingh/problems-solved/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/samridhkumarsingh/problems-solved/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -184,4 +188,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/samridhkumarsingh/problems-solved/tree/master/0560-subarray-sum-equals-k) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
