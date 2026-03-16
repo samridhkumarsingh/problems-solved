@@ -46,18 +46,13 @@ class Solution {
         else return false;
     }
     public void push(char x) {
-        // Inserts x at the top of the stack
         arr.add(x);
         p++;
     }
       public char peek() {
-        // Returns the top element of the stack
-
         return arr.get(p-1);
     }
     public void pop() {
-        // Removes an element from the top of the stack
-
         arr.remove(p-1);
         p--;
     }
