@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/samridhkumarsingh/problems-solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/samridhkumarsingh/problems-solved/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/samridhkumarsingh/problems-solved/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/samridhkumarsingh/problems-solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0088-merge-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/samridhkumarsingh/problems-solved/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/samridhkumarsingh/problems-solved/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/samridhkumarsingh/problems-solved/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0509-fibonacci-number) |
 ## Hash Table
