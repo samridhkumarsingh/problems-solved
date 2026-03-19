@@ -5,7 +5,7 @@ class Solution {
          if(n==0) return arr;
 
     //     int p=0,q=0;
-    //   while(p<n-1)
+    //   while(p<n-1)   //using 2 pointer  //
     //   {
     //     if(nums[p]+1==nums[p+1])
     //     {
@@ -35,7 +35,7 @@ class Solution {
     //   return arr;
 
     int start=nums[0];
-    for(int i=1;i<n;i++)
+    for(int i=1;i<n;i++)  //using for loop //
     {
         if(nums[i]!=nums[i-1]+1)
         {
