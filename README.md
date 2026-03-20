@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/samridhkumarsingh/problems-solved/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/samridhkumarsingh/problems-solved/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/samridhkumarsingh/problems-solved/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0977-squares-of-a-sorted-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/samridhkumarsingh/problems-solved/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/samridhkumarsingh/problems-solved/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/samridhkumarsingh/problems-solved/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/samridhkumarsingh/problems-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0566-reshape-the-matrix) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/samridhkumarsingh/problems-solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/samridhkumarsingh/problems-solved/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/samridhkumarsingh/problems-solved/tree/master/0560-subarray-sum-equals-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/samridhkumarsingh/problems-solved/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/samridhkumarsingh/problems-solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/samridhkumarsingh/problems-solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samridhkumarsingh/problems-solved/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/samridhkumarsingh/problems-solved/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0977-squares-of-a-sorted-array) |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/samridhkumarsingh/problems-solved/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/0349-intersection-of-two-arrays) |
 ## Union-Find
 |  |
 | ------- |
