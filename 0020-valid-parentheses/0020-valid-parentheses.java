@@ -2,7 +2,7 @@ class Solution {
      ArrayList<Character> arr;
      int p;
      int max;
-    public boolean isValid(String s) {
+    public boolean isValid(String s) { //
         arr=new ArrayList<>();
          p=0;
         max=s.length();
