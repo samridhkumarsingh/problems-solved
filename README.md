@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/samridhkumarsingh/problems-solved/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/samridhkumarsingh/problems-solved/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/samridhkumarsingh/problems-solved/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/samridhkumarsingh/problems-solved/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/samridhkumarsingh/problems-solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0059-spiral-matrix-ii) |
@@ -226,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0219-contains-duplicate-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/samridhkumarsingh/problems-solved/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
