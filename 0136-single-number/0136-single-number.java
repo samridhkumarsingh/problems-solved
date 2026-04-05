@@ -1,5 +1,5 @@
 class Solution {
-    public int singleNumber(int[] nums) {
+    public int singleNumber(int[] nums) { //revice
         int ans=0;
         for(int n:nums)
         {
