@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/samridhkumarsingh/problems-solved/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0766-toeplitz-matrix) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-score-after-flipping-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/samridhkumarsingh/problems-solved/tree/master/0905-sort-array-by-parity) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/samridhkumarsingh/problems-solved/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Union-Find
 |  |
 | ------- |
