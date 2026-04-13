@@ -1,7 +1,7 @@
 class Solution {
     public void com(int indx,int[] arr, int target ,List<Integer>ans,List<List<Integer>>rsl)
     {
-            if(target==0)
+            if(target==0) //
             {
                  rsl.add(new ArrayList<>(ans));
             return ;
