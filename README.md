@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/samridhkumarsingh/problems-solved/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0977-squares-of-a-sorted-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/samridhkumarsingh/problems-solved/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0509-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/1248-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/samridhkumarsingh/problems-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/samridhkumarsingh/problems-solved/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/samridhkumarsingh/problems-solved/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/samridhkumarsingh/problems-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/samridhkumarsingh/problems-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/samridhkumarsingh/problems-solved/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/1480-running-sum-of-1d-array) |
 ## Merge Sort
 |  |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/samridhkumarsingh/problems-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/samridhkumarsingh/problems-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0219-contains-duplicate-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/samridhkumarsingh/problems-solved/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
