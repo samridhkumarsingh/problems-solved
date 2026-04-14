@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/samridhkumarsingh/problems-solved/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1572-matrix-diagonal-sum](https://github.com/samridhkumarsingh/problems-solved/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/samridhkumarsingh/problems-solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1991-find-the-middle-index-in-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/samridhkumarsingh/problems-solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/samridhkumarsingh/problems-solved/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/samridhkumarsingh/problems-solved/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/1991-find-the-middle-index-in-array) |
 ## Merge Sort
 |  |
 | ------- |
