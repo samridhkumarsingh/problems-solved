@@ -1,12 +1,14 @@
 class Solution {
-    public int mySqrt(int x) {//normal approch
-        if(x==0 || x==1) return x;
-
-        for(int i=2;i<=x/2;i++)
+    public int mySqrt(int x) {
+        long low=0,high=x;
+        while(low<=high)
         {
-            if((long)i*i==x) return i;
-            else if((long)i*i>x) return i-1;
+            long middle=low+(high-low)/2;
+            if(middle*middle==x) return (int)middle;
+            else if(middle*middle>x) high=middle-1;
+            else if(middle*middle<x)  low=middle+1;
         }
-        return x/2;
+
+        return (int)high;
     }
 }
