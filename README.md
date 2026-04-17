@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/samridhkumarsingh/problems-solved/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/1248-count-number-of-nice-subarrays) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/samridhkumarsingh/problems-solved/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/samridhkumarsingh/problems-solved/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/samridhkumarsingh/problems-solved/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/samridhkumarsingh/problems-solved/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/samridhkumarsingh/problems-solved/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Union-Find
 |  |
 | ------- |
