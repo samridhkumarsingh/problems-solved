@@ -6,7 +6,7 @@ class Solution {
         {
           max=  Math.max(max,nums[i]);
         }
-        //  int d;
+        //  int d;                  //brute
         // for( d=1;d<max;d++)
         // {
         //     int sum=0;
