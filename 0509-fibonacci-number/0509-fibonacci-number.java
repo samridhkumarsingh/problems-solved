@@ -8,11 +8,11 @@ class Solution {
 
     public int fibo(int n,int[] dp)
     {
-        if(n<=1) return n;
+        if(n<=1) return n;  //dp with extra array
 
         if(dp[n]!=-1) return dp[n];
-        int last=fib(n-1);
-        int slast=fib(n-2);
+        int last=fibo(n-1,dp);
+        int slast=fibo(n-2,dp);
         dp[n]=last+slast;
         return dp[n];
     }
