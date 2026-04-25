@@ -1,7 +1,7 @@
 class Solution {
     public int mxrb(int indx,int[] nums,int[] dp)
     {
-        if(indx>=nums.length) return 0;
+        if(indx>=nums.length) return 0;//
         if(dp[indx]!=-1) return dp[indx];
         
         int rob=nums[indx]+mxrb(indx+2,nums,dp);
