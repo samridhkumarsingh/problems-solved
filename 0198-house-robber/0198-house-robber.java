@@ -3,6 +3,7 @@ class Solution {
     {
         if(indx>=nums.length) return 0;
         if(dp[indx]!=-1) return dp[indx];
+        
         int rob=nums[indx]+mxrb(indx+2,nums,dp);
         int skip=mxrb(indx+1,nums,dp);
         dp[indx]=Math.max(rob,skip);
