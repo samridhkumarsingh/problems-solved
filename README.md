@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/samridhkumarsingh/problems-solved/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/samridhkumarsingh/problems-solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/samridhkumarsingh/problems-solved/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1991-find-the-middle-index-in-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/1991-find-the-middle-index-in-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/samridhkumarsingh/problems-solved/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/samridhkumarsingh/problems-solved/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/samridhkumarsingh/problems-solved/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/samridhkumarsingh/problems-solved/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/1539-kth-missing-positive-number) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/samridhkumarsingh/problems-solved/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/samridhkumarsingh/problems-solved/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Union-Find
 |  |
