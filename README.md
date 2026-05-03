@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/samridhkumarsingh/problems-solved/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/samridhkumarsingh/problems-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0566-reshape-the-matrix) |
 | [0658-find-k-closest-elements](https://github.com/samridhkumarsingh/problems-solved/tree/master/0658-find-k-closest-elements) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/samridhkumarsingh/problems-solved/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/samridhkumarsingh/problems-solved/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0852-peak-index-in-a-mountain-array) |
