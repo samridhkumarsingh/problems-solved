@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/samridhkumarsingh/problems-solved/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/samridhkumarsingh/problems-solved/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/samridhkumarsingh/problems-solved/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/samridhkumarsingh/problems-solved/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -320,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/samridhkumarsingh/problems-solved/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/samridhkumarsingh/problems-solved/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0090-subsets-ii) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/samridhkumarsingh/problems-solved/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
