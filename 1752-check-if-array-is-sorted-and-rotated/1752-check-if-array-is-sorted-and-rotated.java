@@ -10,8 +10,7 @@ class Solution {
     //         smll=nums[i];
     //         indx=i;
     //     }
-    //    }
-        
+    //    }    
     //     for(int i=indx;i<n-1;i++)
     //     {
     //         if(nums[i]>nums[i+1]) return false;
