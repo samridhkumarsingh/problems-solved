@@ -5,13 +5,13 @@ class Solution {
         int val=0;
         for(int i=0;i<n;i++)
         {
-            if(s.charAt(i)=='(') val++;
-            
-            if(val>1)
-            {
-                sb.append(s.charAt(i));
+           if (s.charAt(i) == '(') {
+                 if (val > 0) sb.append('(');
+                      val++;
+            } else {
+                 val--;
+                 if (val > 0) sb.append(')');
             }
-            if(s.charAt(i)==')') val--;
         }
         return sb.toString();
     }
