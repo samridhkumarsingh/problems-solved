@@ -3,23 +3,24 @@ class Solution {
         int n=matrix.length;
         for(int i=0;i<n;i++)
         {
-            for(int j=0;j<i;j++)
+            for(int j=0;j<=i;j++)
             {
-            int temp=matrix[i][j];
-            matrix[i][j]=matrix[j][i];
-            matrix[j][i]=temp;
+               int temp=matrix[i][j];
+                matrix[i][j]=matrix[j][i];
+                matrix[j][i]=temp;
             }
         }
+        
         for(int i=0;i<n;i++)
         {
-            int a=0,b=n-1;
-            while(a<b)
+            int p=0,q=n-1;
+            while(p<q)
             {
-            int temp=matrix[i][a];
-            matrix[i][a]=matrix[i][b];
-            matrix[i][b]=temp;
-            a++;
-            b--;
+                int temp=matrix[i][p];
+                matrix[i][p]=matrix[i][q];
+                matrix[i][q]=temp;
+                p++;
+                q--;
             }
         }
     }
