@@ -30,7 +30,7 @@ class Solution {
 
     StringBuilder sb=new StringBuilder();
     s=s.trim();
-    String[] words=s.split("\s+");
+    String[] words=s.split("\\s+");
     for(int i=words.length-1;i>=0;i--)
     {
         sb.append(words[i]);
