@@ -41,7 +41,7 @@ class Solution {
     // return sb.toString();
 
 
-    StringBuilder sb=new StringBuilder();
+    StringBuilder sb=new StringBuilder(); //method2
     int p=s.length()-1;
     
     while(p>=0)
@@ -63,7 +63,10 @@ class Solution {
         {
             sb.append(' ');
         }
-        String word=s.substring(start,end+1);
+
+        StringBuilder word=new StringBuilder();
+        word.append(s.substring(start,end+1));
+        // String word=s.substring(start,end+1);
         sb.append(word);
     }
 
