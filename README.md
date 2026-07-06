@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/samridhkumarsingh/problems-solved/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/samridhkumarsingh/problems-solved/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/samridhkumarsingh/problems-solved/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/samridhkumarsingh/problems-solved/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/samridhkumarsingh/problems-solved/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/samridhkumarsingh/problems-solved/tree/master/0070-climbing-stairs) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/samridhkumarsingh/problems-solved/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/samridhkumarsingh/problems-solved/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/samridhkumarsingh/problems-solved/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/samridhkumarsingh/problems-solved/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/samridhkumarsingh/problems-solved/tree/master/0198-house-robber) |
@@ -355,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/samridhkumarsingh/problems-solved/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/samridhkumarsingh/problems-solved/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/samridhkumarsingh/problems-solved/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/samridhkumarsingh/problems-solved/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
