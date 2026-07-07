@@ -1,22 +1,23 @@
 class Solution {
-    public void sub(int indx,List<Integer>ans,List<List<Integer>>rsl,int[] nums)
+    public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> list=new ArrayList<>();
+        List<Integer> rsl=new ArrayList<>();
+        set(0,nums,list,rsl);
+        return list;
+        
+    }
+    public void set(int index,int[] nums,List<List<Integer>>list,List<Integer>rsl)
     {
-        if(indx>=nums.length)
+        if(index==nums.length)
         {
-            rsl.add(new ArrayList<>(ans));
+            list.add(new ArrayList <>(rsl));
             return;
         }
-        ans.add(nums[indx]);
-        sub(indx+1,ans,rsl,nums);
-        ans.remove(ans.size()-1);
-        sub(indx+1,ans,rsl,nums);
-    }
-    public List<List<Integer>> subsets(int[] nums) {
-       List<List<Integer>>rsl=new ArrayList<>();
-        List<Integer>ans=new ArrayList<>();
-        sub(0,ans,rsl,nums);
-        return rsl;
 
-        
+         rsl.add(nums[index]);
+        set(index+1,nums,list,rsl);// take
+        rsl.remove(rsl.size()-1);
+        set(index+1,nums,list,rsl);//not take
+
     }
 }
