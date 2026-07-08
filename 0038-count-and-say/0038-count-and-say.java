@@ -2,7 +2,7 @@ class Solution {
     public String countAndSay(int n) {
         if(n==1) return "1"; //base case
 
-        String s=countAndSay(n-1);
+        String s=countAndSay(n-1)+"@";
         //now we have to modify s
         String ans="";
         int i=0,j=0;
@@ -17,9 +17,9 @@ class Solution {
                 i=j;
             }
         }
-         int len=j-i;
-        ans+=len;
-        ans+=s.charAt(i);
+        //  int len=j-i;
+        // ans+=len;
+        // ans+=s.charAt(i);
 
         return ans;
     }
