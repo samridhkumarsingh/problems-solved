@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/samridhkumarsingh/problems-solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/samridhkumarsingh/problems-solved/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/samridhkumarsingh/problems-solved/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0525-contiguous-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/samridhkumarsingh/problems-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/samridhkumarsingh/problems-solved/tree/master/0974-subarray-sums-divisible-by-k) |
