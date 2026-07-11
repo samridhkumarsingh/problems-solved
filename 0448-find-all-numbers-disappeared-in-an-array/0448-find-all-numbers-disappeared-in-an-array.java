@@ -5,13 +5,16 @@ class Solution {
         nums[i]=nums[j];
         nums[j]=temp;
     }
-    public List<Integer> findDisappearedNumbers(int[] nums) {
+    public List<Integer> findDisappearedNumbers(int[] nums) { //cycle sorting
         List<Integer>list=new ArrayList<>();
         int n=nums.length;
         int i=0;
         while(i<n)
         {
-            if(nums[i]==nums[nums[i]-1]) i++;
+            if(nums[i]==i+1 ||nums[i]==nums[nums[i]-1] ) 
+            { 
+                i++;
+            }
             else swap(i,(nums[i]-1),nums);
         }
         for(i=0;i<n;i++)
