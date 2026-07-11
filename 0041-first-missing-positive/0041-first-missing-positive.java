@@ -17,16 +17,38 @@ class Solution {
         //    return 0;
 
 
+        // int n=nums.length;  //method 2     //O(n) && space O(n) 
+        // HashSet<Integer>set=new HashSet<>();
+        // for(int ele: nums)
+        // {
+        //     set.add(ele);
+        // }
+        // for(int num=1;num<=n+1;num++)
+        // {
+        //     if(!set.contains(num)) return num;
+        // }
+        // return 0;
+
         int n=nums.length;
-        HashSet<Integer>set=new HashSet<>();
-        for(int ele: nums)
+        int i=0;
+        while(i<n)
         {
-            set.add(ele);
+            if(nums[i]==i+1||nums[i]>n||nums[i]<=0 || nums[i]==nums[nums[i]-1]) i++;
+            else
+            {
+                swap(i,nums[i]-1,nums);
+            }
         }
-        for(int num=1;num<=n+1;num++)
+        for( i=0;i<n;i++)
         {
-            if(!set.contains(num)) return num;
+            if(nums[i]!=i+1) return i+1;
         }
-        return 0;
+        return i+1;
+    }
+      public void swap(int i,int j,int[] nums)
+    {
+        int temp=nums[i];
+        nums[i]=nums[j];
+        nums[j]=temp;
     }
 }
