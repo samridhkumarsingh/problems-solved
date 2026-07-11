@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/samridhkumarsingh/problems-solved/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/samridhkumarsingh/problems-solved/tree/master/0392-is-subsequence) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/samridhkumarsingh/problems-solved/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/samridhkumarsingh/problems-solved/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/samridhkumarsingh/problems-solved/tree/master/0493-reverse-pairs) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/samridhkumarsingh/problems-solved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/samridhkumarsingh/problems-solved/tree/master/0342-power-of-four) |
 | [0861-score-after-flipping-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0861-score-after-flipping-matrix) |
 ## Greedy
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/samridhkumarsingh/problems-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/samridhkumarsingh/problems-solved/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0540-single-element-in-a-sorted-array) |
