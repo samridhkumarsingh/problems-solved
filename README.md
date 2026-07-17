@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/samridhkumarsingh/problems-solved/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/samridhkumarsingh/problems-solved/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/samridhkumarsingh/problems-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/samridhkumarsingh/problems-solved/tree/master/0118-pascals-triangle) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/samridhkumarsingh/problems-solved/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/samridhkumarsingh/problems-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/samridhkumarsingh/problems-solved/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/samridhkumarsingh/problems-solved/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
@@ -410,5 +412,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/samridhkumarsingh/problems-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/samridhkumarsingh/problems-solved/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
