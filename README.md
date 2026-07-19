@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/samridhkumarsingh/problems-solved/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/samridhkumarsingh/problems-solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/samridhkumarsingh/problems-solved/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/samridhkumarsingh/problems-solved/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1991-find-the-middle-index-in-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/1991-find-the-middle-index-in-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/samridhkumarsingh/problems-solved/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/samridhkumarsingh/problems-solved/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/samridhkumarsingh/problems-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/samridhkumarsingh/problems-solved/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/samridhkumarsingh/problems-solved/tree/master/1021-remove-outermost-parentheses) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/samridhkumarsingh/problems-solved/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## String Matching
 |  |
 | ------- |
@@ -417,4 +419,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/samridhkumarsingh/problems-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/samridhkumarsingh/problems-solved/tree/master/0496-next-greater-element-i) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/samridhkumarsingh/problems-solved/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
