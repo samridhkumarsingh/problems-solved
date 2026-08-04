@@ -440,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/samridhkumarsingh/problems-solved/tree/master/0374-guess-number-higher-or-lower) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/samridhkumarsingh/problems-solved/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
