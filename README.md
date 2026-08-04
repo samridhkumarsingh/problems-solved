@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/samridhkumarsingh/problems-solved/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/samridhkumarsingh/problems-solved/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/samridhkumarsingh/problems-solved/tree/master/0658-find-k-closest-elements) |
@@ -435,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/samridhkumarsingh/problems-solved/tree/master/0155-min-stack) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/samridhkumarsingh/problems-solved/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
