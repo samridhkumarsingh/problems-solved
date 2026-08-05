@@ -21,7 +21,7 @@ class Solution {
         // return nums;
 
 
-        int n=nums.length;              //brute force with space O(n) and time O(n)
+        int n=nums.length;              //optimal with space O(n) and time O(n)
         int i=0,j=n-1,k=n-1;
         int[] result=new int[n];
         while(i<=j)
