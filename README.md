@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/samridhkumarsingh/problems-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/samridhkumarsingh/problems-solved/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/samridhkumarsingh/problems-solved/tree/master/0374-guess-number-higher-or-lower) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/samridhkumarsingh/problems-solved/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/samridhkumarsingh/problems-solved/tree/master/0374-guess-number-higher-or-lower) |
 ## Newton's Method
 |  |
