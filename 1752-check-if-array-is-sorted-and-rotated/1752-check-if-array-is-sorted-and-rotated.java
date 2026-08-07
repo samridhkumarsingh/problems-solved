@@ -10,10 +10,6 @@ class Solution {
             }
         }
         if(nums[n]-nums[0]>0) c++;
-
-        // if(c<2) return true;
-        // return false;
-
         return c<2;
     }
 }
