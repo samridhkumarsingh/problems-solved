@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/samridhkumarsingh/problems-solved/tree/master/0443-string-compression) |
 | [1021-remove-outermost-parentheses](https://github.com/samridhkumarsingh/problems-solved/tree/master/1021-remove-outermost-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/samridhkumarsingh/problems-solved/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/samridhkumarsingh/problems-solved/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/samridhkumarsingh/problems-solved/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/samridhkumarsingh/problems-solved/tree/master/1572-matrix-diagonal-sum) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/samridhkumarsingh/problems-solved/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/samridhkumarsingh/problems-solved/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/samridhkumarsingh/problems-solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/samridhkumarsingh/problems-solved/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
