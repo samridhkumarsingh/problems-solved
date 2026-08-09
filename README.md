@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/samridhkumarsingh/problems-solved/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/samridhkumarsingh/problems-solved/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/samridhkumarsingh/problems-solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/samridhkumarsingh/problems-solved/tree/master/0946-validate-stack-sequences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/samridhkumarsingh/problems-solved/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0977-squares-of-a-sorted-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/samridhkumarsingh/problems-solved/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/samridhkumarsingh/problems-solved/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/samridhkumarsingh/problems-solved/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/samridhkumarsingh/problems-solved/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/samridhkumarsingh/problems-solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/samridhkumarsingh/problems-solved/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/samridhkumarsingh/problems-solved/tree/master/0918-maximum-sum-circular-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -478,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/samridhkumarsingh/problems-solved/tree/master/0069-sqrtx) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/samridhkumarsingh/problems-solved/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
