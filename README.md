@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/samridhkumarsingh/problems-solved/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/samridhkumarsingh/problems-solved/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/samridhkumarsingh/problems-solved/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/samridhkumarsingh/problems-solved/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0977-squares-of-a-sorted-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/samridhkumarsingh/problems-solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/samridhkumarsingh/problems-solved/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/samridhkumarsingh/problems-solved/tree/master/1021-remove-outermost-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/samridhkumarsingh/problems-solved/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/samridhkumarsingh/problems-solved/tree/master/1768-merge-strings-alternately) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/samridhkumarsingh/problems-solved/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/samridhkumarsingh/problems-solved/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/samridhkumarsingh/problems-solved/tree/master/0645-set-mismatch) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/samridhkumarsingh/problems-solved/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/1248-count-number-of-nice-subarrays) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/samridhkumarsingh/problems-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/samridhkumarsingh/problems-solved/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/samridhkumarsingh/problems-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/samridhkumarsingh/problems-solved/tree/master/0658-find-k-closest-elements) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samridhkumarsingh/problems-solved/tree/master/1248-count-number-of-nice-subarrays) |
