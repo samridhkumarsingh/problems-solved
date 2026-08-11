@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/samridhkumarsingh/problems-solved/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/samridhkumarsingh/problems-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/samridhkumarsingh/problems-solved/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/samridhkumarsingh/problems-solved/tree/master/0283-move-zeroes) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/samridhkumarsingh/problems-solved/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/samridhkumarsingh/problems-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/samridhkumarsingh/problems-solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/samridhkumarsingh/problems-solved/tree/master/0198-house-robber) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/samridhkumarsingh/problems-solved/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/samridhkumarsingh/problems-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/samridhkumarsingh/problems-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0268-missing-number) |
