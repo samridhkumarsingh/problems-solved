@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/samridhkumarsingh/problems-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/samridhkumarsingh/problems-solved/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/samridhkumarsingh/problems-solved/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/samridhkumarsingh/problems-solved/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/samridhkumarsingh/problems-solved/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/samridhkumarsingh/problems-solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0766-toeplitz-matrix) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/samridhkumarsingh/problems-solved/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/samridhkumarsingh/problems-solved/tree/master/0946-validate-stack-sequences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/samridhkumarsingh/problems-solved/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/samridhkumarsingh/problems-solved/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/samridhkumarsingh/problems-solved/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/samridhkumarsingh/problems-solved/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/samridhkumarsingh/problems-solved/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/samridhkumarsingh/problems-solved/tree/master/1021-remove-outermost-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/samridhkumarsingh/problems-solved/tree/master/1944-number-of-visible-people-in-a-queue) |
