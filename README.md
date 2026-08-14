@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/samridhkumarsingh/problems-solved/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/samridhkumarsingh/problems-solved/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/samridhkumarsingh/problems-solved/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/samridhkumarsingh/problems-solved/tree/master/1768-merge-strings-alternately) |
 ## Array
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/samridhkumarsingh/problems-solved/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/samridhkumarsingh/problems-solved/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/samridhkumarsingh/problems-solved/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/samridhkumarsingh/problems-solved/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## String Matching
 |  |
