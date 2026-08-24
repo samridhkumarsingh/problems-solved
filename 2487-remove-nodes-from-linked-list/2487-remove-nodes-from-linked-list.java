@@ -8,7 +8,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-// class Solution {  // my apprach whic is not solving all case;
+//  class Solution {  // my apprach whic is not solving all case;
 //     public ListNode removeNodes(ListNode head) {
 
 //         if (head == null || head.next == null) {
@@ -17,6 +17,7 @@
 
 //         ListNode temp = head.next;
 //         ListNode pre = head;
+//        // ListNode prepre=head;
 
 //         int maxVal = head.val;
 
@@ -31,6 +32,9 @@
 //                 maxVal = temp.val;
 //             }
 
+//             // else if (after != null && temp.val < after.val && maxVal<after.val) {
+//             //     prepre.next = after;
+//             // }
 //             // Current node has a greater node immediately after it
 //             else if (after != null && temp.val < after.val) {
 //                 pre.next = after;
@@ -39,7 +43,11 @@
 //             else {
 //                 pre = temp;
 //             }
-
+//             // if(temp.val>maxVal)
+//             // {
+//             //     maxVal=temp.val;
+//             //     prepre=temp;
+//             // }
 //             maxVal = Math.max(maxVal, temp.val);
 
 //             temp = after;
@@ -49,47 +57,74 @@
 //     }
 // }
 
-class Solution {
-    public ListNode removeNodes(ListNode head) {
+// class Solution {  //ChatGpt approach revise ones
+//     public ListNode removeNodes(ListNode head) {
 
-        // Reverse the list
-        ListNode prev = null;
-        ListNode curr = head;
+//         // Reverse the list
+//         ListNode prev = null;
+//         ListNode curr = head;
 
-        while (curr != null) {
-            ListNode next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
+//         while (curr != null) {
+//             ListNode next = curr.next;
+//             curr.next = prev;
+//             prev = curr;
+//             curr = next;
+//         }
+
+//         head = prev;
+
+//         // Remove nodes smaller than maximum on their right
+//         int maxVal = head.val;
+//         curr = head;
+
+//         while (curr != null && curr.next != null) {
+
+//             if (curr.next.val < maxVal) {
+//                 curr.next = curr.next.next;
+//             } else {
+//                 curr = curr.next;
+//                 maxVal = curr.val;
+//             }
+//         }
+
+//         // Reverse again
+//         prev = null;
+//         curr = head;
+
+//         while (curr != null) {
+//             ListNode next = curr.next;
+//             curr.next = prev;
+//             prev = curr;
+//             curr = next;
+//         }
+
+//         return prev;
+//     }
+// }
+
+class Solution { 
+    public ListNode removeNodes(ListNode head){
+    Stack<ListNode> st=new Stack<>();
+    ListNode temp=head;
+    while(temp!=null)
+    {
+        st.add(temp);
+        temp=temp.next;
+    }
+   
+    ListNode after=null;
+    int maxval=Integer.MIN_VALUE;
+    while(!st.isEmpty())
+    {
+        ListNode curr=st.pop();
+        if(curr.val>=maxval)
+        {
+            maxval=curr.val;
+            curr.next=after;
+           
+            after=curr;
         }
-
-        head = prev;
-
-        // Remove nodes smaller than maximum on their right
-        int maxVal = head.val;
-        curr = head;
-
-        while (curr != null && curr.next != null) {
-
-            if (curr.next.val < maxVal) {
-                curr.next = curr.next.next;
-            } else {
-                curr = curr.next;
-                maxVal = curr.val;
-            }
-        }
-
-        // Reverse again
-        prev = null;
-        curr = head;
-
-        while (curr != null) {
-            ListNode next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
-        }
-
-        return prev;
+    }
+    return after;
     }
 }
