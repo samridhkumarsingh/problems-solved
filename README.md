@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/samridhkumarsingh/problems-solved/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/samridhkumarsingh/problems-solved/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2487-remove-nodes-from-linked-list](https://github.com/samridhkumarsingh/problems-solved/tree/master/2487-remove-nodes-from-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/samridhkumarsingh/problems-solved/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/samridhkumarsingh/problems-solved/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/samridhkumarsingh/problems-solved/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/samridhkumarsingh/problems-solved/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/samridhkumarsingh/problems-solved/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/samridhkumarsingh/problems-solved/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Combinatorics
 |  |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/samridhkumarsingh/problems-solved/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/samridhkumarsingh/problems-solved/tree/master/0739-daily-temperatures) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/samridhkumarsingh/problems-solved/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2487-remove-nodes-from-linked-list](https://github.com/samridhkumarsingh/problems-solved/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
