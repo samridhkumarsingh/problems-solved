@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/samridhkumarsingh/problems-solved/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/samridhkumarsingh/problems-solved/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/samridhkumarsingh/problems-solved/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/samridhkumarsingh/problems-solved/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/samridhkumarsingh/problems-solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/samridhkumarsingh/problems-solved/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/samridhkumarsingh/problems-solved/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/samridhkumarsingh/problems-solved/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/samridhkumarsingh/problems-solved/tree/master/0946-validate-stack-sequences) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/samridhkumarsingh/problems-solved/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/samridhkumarsingh/problems-solved/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Heap (Priority Queue)
 |  |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/samridhkumarsingh/problems-solved/tree/master/0918-maximum-sum-circular-subarray) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/samridhkumarsingh/problems-solved/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Stack
 |  |
 | ------- |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/samridhkumarsingh/problems-solved/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/samridhkumarsingh/problems-solved/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/samridhkumarsingh/problems-solved/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/samridhkumarsingh/problems-solved/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/samridhkumarsingh/problems-solved/tree/master/2487-remove-nodes-from-linked-list) |
 ## String Matching
