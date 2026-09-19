@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/samridhkumarsingh/problems-solved/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/samridhkumarsingh/problems-solved/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/samridhkumarsingh/problems-solved/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/samridhkumarsingh/problems-solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/samridhkumarsingh/problems-solved/tree/master/0283-move-zeroes) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/samridhkumarsingh/problems-solved/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/samridhkumarsingh/problems-solved/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samridhkumarsingh/problems-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/samridhkumarsingh/problems-solved/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/samridhkumarsingh/problems-solved/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/samridhkumarsingh/problems-solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/samridhkumarsingh/problems-solved/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/samridhkumarsingh/problems-solved/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/samridhkumarsingh/problems-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/samridhkumarsingh/problems-solved/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/samridhkumarsingh/problems-solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/samridhkumarsingh/problems-solved/tree/master/0643-maximum-average-subarray-i) |
@@ -542,9 +546,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/samridhkumarsingh/problems-solved/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/samridhkumarsingh/problems-solved/tree/master/0918-maximum-sum-circular-subarray) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0142-linked-list-cycle-ii) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/samridhkumarsingh/problems-solved/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
