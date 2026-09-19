@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/samridhkumarsingh/problems-solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/samridhkumarsingh/problems-solved/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/samridhkumarsingh/problems-solved/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0680-valid-palindrome-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/samridhkumarsingh/problems-solved/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/samridhkumarsingh/problems-solved/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0649-dota2-senate](https://github.com/samridhkumarsingh/problems-solved/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0680-valid-palindrome-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/samridhkumarsingh/problems-solved/tree/master/0861-score-after-flipping-matrix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/samridhkumarsingh/problems-solved/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/samridhkumarsingh/problems-solved/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/samridhkumarsingh/problems-solved/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/samridhkumarsingh/problems-solved/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/samridhkumarsingh/problems-solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/samridhkumarsingh/problems-solved/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Stack
