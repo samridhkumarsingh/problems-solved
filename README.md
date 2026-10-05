@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/samridhkumarsingh/problems-solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/samridhkumarsingh/problems-solved/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/samridhkumarsingh/problems-solved/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/samridhkumarsingh/problems-solved/tree/master/0387-first-unique-character-in-a-string) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/samridhkumarsingh/problems-solved/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/samridhkumarsingh/problems-solved/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/samridhkumarsingh/problems-solved/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
 | ------- |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/samridhkumarsingh/problems-solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/samridhkumarsingh/problems-solved/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samridhkumarsingh/problems-solved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/samridhkumarsingh/problems-solved/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/samridhkumarsingh/problems-solved/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/samridhkumarsingh/problems-solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/samridhkumarsingh/problems-solved/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samridhkumarsingh/problems-solved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/samridhkumarsingh/problems-solved/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/samridhkumarsingh/problems-solved/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -594,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/samridhkumarsingh/problems-solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/samridhkumarsingh/problems-solved/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samridhkumarsingh/problems-solved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/samridhkumarsingh/problems-solved/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/samridhkumarsingh/problems-solved/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
