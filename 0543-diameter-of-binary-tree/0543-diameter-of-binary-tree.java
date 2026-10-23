@@ -43,21 +43,40 @@
 //      }
 // }
 
-class Solution { //O(n)
-    int maxDia;
+// class Solution { //O(n)  //withGlobal variable
+//     int maxDia;
+//      public int diameterOfBinaryTree(TreeNode root) {
+//       maxDia=0;
+//       levels(root);
+//       return maxDia;
+//      }
+
+//      public int levels(TreeNode root)
+//      {
+//         if(root==null) return 0;
+//         int leftLevels=levels(root.left);
+//         int rightLevels=levels(root.right);
+//         int dia=leftLevels+rightLevels;
+//         maxDia=Math.max(dia,maxDia);
+//         return 1+Math.max(leftLevels,rightLevels);
+//      }
+// }
+
+class Solution { //O(n)  //without Global variable
+    
      public int diameterOfBinaryTree(TreeNode root) {
-      maxDia=0;
-      levels(root);
-      return maxDia;
+      int[] maxDia={0};
+      levels(root,maxDia);
+      return maxDia[0];
      }
 
-     public int levels(TreeNode root)
+     public int levels(TreeNode root,int[] maxDia)
      {
         if(root==null) return 0;
-        int leftLevels=levels(root.left);
-        int rightLevels=levels(root.right);
+        int leftLevels=levels(root.left,maxDia);
+        int rightLevels=levels(root.right,maxDia);
         int dia=leftLevels+rightLevels;
-        maxDia=Math.max(dia,maxDia);
+        maxDia[0]=Math.max(dia,maxDia[0]);
         return 1+Math.max(leftLevels,rightLevels);
      }
 }
