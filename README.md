@@ -603,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/samridhkumarsingh/problems-solved/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/samridhkumarsingh/problems-solved/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/samridhkumarsingh/problems-solved/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/samridhkumarsingh/problems-solved/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/samridhkumarsingh/problems-solved/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/samridhkumarsingh/problems-solved/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -669,4 +671,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/samridhkumarsingh/problems-solved/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/samridhkumarsingh/problems-solved/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/samridhkumarsingh/problems-solved/tree/master/1757-recyclable-and-low-fat-products) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/samridhkumarsingh/problems-solved/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
