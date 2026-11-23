@@ -604,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/samridhkumarsingh/problems-solved/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/samridhkumarsingh/problems-solved/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/samridhkumarsingh/problems-solved/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/samridhkumarsingh/problems-solved/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/samridhkumarsingh/problems-solved/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/samridhkumarsingh/problems-solved/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/samridhkumarsingh/problems-solved/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/samridhkumarsingh/problems-solved/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/samridhkumarsingh/problems-solved/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/samridhkumarsingh/problems-solved/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -675,4 +678,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/samridhkumarsingh/problems-solved/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/samridhkumarsingh/problems-solved/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
